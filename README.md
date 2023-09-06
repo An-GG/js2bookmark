@@ -9,6 +9,9 @@ Did you know you can run custom scripts on websites to make them do what you wan
 ![Screenshot 2023-09-06 at 6 19 09 PM](https://github.com/An-GG/js2bookmark/assets/20458990/db5e4272-22fc-459b-b2cc-8b57d6d75e78)<br>
 **Then, just click on it to run your code on the current page.**
 
+### oh and it even works on your phone
+![IMG_0685](https://github.com/An-GG/js2bookmark/assets/20458990/9ef9d210-0c79-4f1c-a721-14c0f9cc5cf1)
+
 ```
 let usage=`
 	USAGE:
