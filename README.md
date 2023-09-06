@@ -12,6 +12,9 @@ Did you know you can run custom scripts on websites to make them do what you wan
 ### oh and it even works on your phone
 ![IMG_0685](https://github.com/An-GG/js2bookmark/assets/20458990/9ef9d210-0c79-4f1c-a721-14c0f9cc5cf1)
 
+
+### i used it for my [export-tweeters](https://github.com/An-GG/export-tweeters) script
+
 ```
 let usage=`
 	USAGE:
